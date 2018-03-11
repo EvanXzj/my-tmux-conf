@@ -16,6 +16,10 @@ brew install tmux
 ```bash
 # cd into project root directory
 cd path/to/this/reo
+
+# add execute permission
+chmod u+x setup.sh
+
 # setup
 ./setup.sh
 ```
